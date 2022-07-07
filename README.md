@@ -1,5 +1,5 @@
 
-# Hi, i'm Allan Araújo
+# Hi, i'm Allan Araújo 👋😃
 
 :man_technologist: <strong> Mobile developer Intern at Ntt Data</strong>
 
