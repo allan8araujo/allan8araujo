@@ -1,8 +1,6 @@
 
 # Hi, i'm Allan Araújo
 
-## About me
-
 :man_technologist: <strong> Mobile developer Intern at Ntt Data</strong>
 
 :mortar_board: <strong>Graduating in Math at UFRPE</strong>
