@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/KikiManjaro">
+  <a href="https://github.com/allan8araujo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan8araujo&layout=compact&show_icons=true&theme=radical" />
   </a>
 </p>
