@@ -4,6 +4,10 @@
 
 <h3 align="center">
 :man_technologist: <strong> Mobile developer Intern at Ntt Data</strong>
+</h3>
+
+
+<h3 align="center">
 :mortar_board: <strong>Graduating in Math at UFRPE</strong> 
 </h3>
 
