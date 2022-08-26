@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-:man_technologist: <strong> Mobile developer Intern at Ntt Data</strong>
+:man_technologist: <strong>Mobile Junior developer at Ntt Data</strong>
 </h3>
 
 
