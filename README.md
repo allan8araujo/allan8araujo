@@ -19,6 +19,7 @@
     <a href="https://github.com/search?q=user%3Aallan8araujo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aallan8araujo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aallan8araujo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    <a href="https://github.com/search?q=user%3Aallan8araujo+language%3ADart"><img alt="Python" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
 </p>
 
 <p align='center'>
