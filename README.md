@@ -34,13 +34,13 @@
 </h3>
 
 <p align='center'>
+    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5"></a>
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/-Postman-434959?style=flat-square&logo=Postman"></a>
     <a href="#"><img alt="Heroku" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-DBDBE0?style=flat-square"></a>
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5"></a>
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma"></a>
 </p>
 
 <h3 align='center'> 
