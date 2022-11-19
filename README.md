@@ -55,7 +55,7 @@
 </p>
 
 <h2 align='center'> 
-You can also reach me at linkedin!
+You can also reach me at linkedin!!
 </h2>
 
 <p align='center'>
