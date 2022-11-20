@@ -22,12 +22,6 @@
     <a href="https://github.com/search?q=user%3Aallan8araujo+language%3ADart"><img alt="Python" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
 </p>
 
-<p align='center'>
-  <a href="https://github.com/allan8araujo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan8araujo&layout=compact&show_icons=true&theme=radical" />
-  </a>
-</p>
-
 
 <h3 align='center'> 
   🧰 Others Technologies
