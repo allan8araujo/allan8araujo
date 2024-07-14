@@ -3,6 +3,12 @@
 </h1>
 
 <h3 align="center">
+
+  🙋‍♂️ All about me is at [My Website](https://allan8araujo.github.io/Portfolio/)
+
+</h3>
+
+<h3 align="center">
 :man_technologist: <strong>Mobile Developer at Ntt Data</strong>
 </h3>
 
